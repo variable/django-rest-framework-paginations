@@ -1,0 +1,4 @@
+site_name: django-rest-framework-paginations
+site_description: Extra paginations for the rest framework
+repo_url: https://github.com/variable/django-rest-framework-paginations
+site_dir: html
